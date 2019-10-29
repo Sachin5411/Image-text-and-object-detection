@@ -1,1 +1,3 @@
 # Image-text-and-object-detection
+
+This repository's code is  for a Internship Project ...
